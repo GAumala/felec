@@ -1,0 +1,8 @@
+(ns com.gaumala.felec.constants)
+
+(def TIPO_FACTURA "factura")
+
+(def ESTADO_PENDIENTE "PENDIENTE")
+(def ESTADO_DEVUELTA "DEVUELTA")
+(def ESTADO_RECIBIDA "RECIBIDA")
+(def ESTADO_AUTORIZADO "AUTORIZADO")

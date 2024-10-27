@@ -1,0 +1,8 @@
+.cpcache
+
+# database files
+.db
+.test-db
+
+# REPL ns
+src/com/gaumala/dev.clj

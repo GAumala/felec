@@ -1,6 +1,6 @@
 {:paths ["src" "resources"]
  :deps
- {com.github.GAumala/SRI {:git/sha "c084b6491eb623e4a3a73bfdf3dd5c01d564c67a"}
+ {com.github.GAumala/SRI {:git/sha "27923bf74a59c37154061ad9c3183d1e09828ee2"}
   com.h2database/h2 {:mvn/version "1.4.199"}
   compojure/compojure {:mvn/version "1.7.0"}
   http-kit/http-kit {:mvn/version "2.3.0"}
